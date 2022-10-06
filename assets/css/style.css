@@ -58,6 +58,7 @@ body {
     font-weight: 400px;
     text-transform: uppercase;
     text-decoration: none;
+    color: #bb99dd;
 }
 #links a:hover{
     background-color: #bb99dd;
