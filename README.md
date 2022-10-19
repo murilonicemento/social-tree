@@ -17,8 +17,8 @@ https://socitree.netlify.app/
 
 ## Desktop
 
-<img src="assets/img/social-tree-desktop.png">
+<img src=".github/social-tree-desktop.png">
 
 ## Mobile
 
-<img src="assets/img/social-tree-mobile.png">
+<img src=".github/social-tree-mobile.png">
